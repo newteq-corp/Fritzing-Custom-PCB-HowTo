@@ -245,6 +245,11 @@ Now you have three layers. Board layer is the pcb. Silkscreen is the top silkscr
 3. Change "id" **Value** to "board".
 4. Click **Set**.
 
+## Add drill holes 
+- Add holes to board layer
+- Select pcb and one hole-> go to path and Difference
+- Do this for all holes
+
 ## Step 6.
 6.1
 
